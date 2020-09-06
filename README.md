@@ -8,7 +8,7 @@ You play as lone samurai, ambushed by skeletons and goblins on his way through f
 
 ## Instalation/ How to play
 
-To play the game, all you need to do, is to simply download this whole repository. The easiest option is to "Download as ZIP".
+To play the game, all you need to do, is to simply download this whole repository. The easiest option is to "Download ZIP".
 After that, simply launch .exe file. No instalation is needed in order to play.
 
 ## Controls
