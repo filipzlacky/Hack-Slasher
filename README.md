@@ -17,11 +17,11 @@ To play the game, all you need to do, is to simply download this whole repositor
 After that, simply run "DS hack&slash.exe" file. No instalation is needed in order to play.
 
 ## Controls
-A - go left
-B - go right
-SPACE - jump
-LEFT SHIFT - dodge
-LeftMouse Button - attack
+A - go left\
+B - go right\
+SPACE - jump\
+LEFT SHIFT - dodge\
+LeftMouse Button - attack\
 ESC - pause menu
 
 ## UPDATE Log
